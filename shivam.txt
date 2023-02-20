@@ -1,0 +1,5 @@
+# Master branch first file added
+#Created a new branch for testing purposes
+#Adding rough text to check
+#Git Practise repository
+#Same name gitDemo repo with desktop folder name
